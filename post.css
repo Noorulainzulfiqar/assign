@@ -1,0 +1,43 @@
+.container {
+    position: relative;
+  }
+  
+.center {
+    position: absolute;
+  top: 45%;
+  width: 100%;
+  text-align:center;
+  font-size: 40px;
+  }
+  
+img { 
+    width: 100%;
+    height: auto;
+    opacity: 2;
+  }
+.topleft{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 40px;
+}  
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 40px;
+  }
+.bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 40px;
+  }  
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 40px;
+  }
+  
+  
